@@ -26,3 +26,25 @@ npm run dev
 
 ## 👤 開発者
 GitHub: Kirin1013
+
+## Week1のふりかえり
+
+- ✅ Vite + React + TypeScript プロジェクト作成
+- ✅ コンポーネント分割（Input / List / Item）
+- ✅ useState で状態管理
+- ✅ Tailwind CSS でスタイリング
+- ✅ GitHubへPush / README更新
+
+### 💡学んだこと
+- propsの使い方（子→親のデータの渡し方）
+- map, filter, useStateの基本
+- Tailwindの導入とユーティリティクラス
+
+### 🌀 つまずいた点
+- Tailwindのインストールで詰まった（バージョンなど）
+- ファイルの構造を見失ったことがあった
+
+### 🛠 次にやりたいこと
+- 状態管理をコンポーネントの外に出して整理したい
+- カスタムHook（useTodos）に挑戦したい
+- ログイン認証・API連携にもステップアップしたい
